@@ -1,0 +1,384 @@
+{
+  "company": {
+    "name": "3A Lending LLC",
+    "type": "Commercial Lending Company",
+    "focus": "Nationwide business financing",
+    "phone": "1-260-123-4567",
+    "email": "info@3alending.com",
+    "website": "https://www.3alending.com",
+    "headquarters": "Digital headquarters serving all 50 states",
+    "established": "Leading digital commercial lender",
+    "mission": "Making small business dreams a reality nationwide",
+    "values": ["Integrity", "Partnership", "Excellence", "Innovation"],
+    "stats": {
+      "funded": "$50M+",
+      "businesses_helped": "500+",
+      "approval_time": "24 hours average",
+      "approval_rate": "94%",
+      "years_experience": "50+ combined team experience"
+    }
+  },
+  "loan_products": [
+    {
+      "name": "SBA 504 Loans",
+      "slug": "sba-504-loans",
+      "purpose": "Commercial real estate and equipment financing",
+      "amount": "Up to $5.5 million",
+      "down_payment": "As low as 10%",
+      "terms": "10, 20, or 25 years",
+      "rates": "Starting at 6.5% APR",
+      "features": [
+        "Fixed interest rates",
+        "Long-term financing",
+        "90% financing available",
+        "No prepayment penalties",
+        "Build business equity"
+      ],
+      "eligible_uses": [
+        "Purchase commercial real estate",
+        "Buy land and construct new facilities",
+        "Renovate or expand existing buildings",
+        "Purchase heavy machinery and equipment",
+        "Refinance debt on owner-occupied property",
+        "Energy-efficient improvements"
+      ],
+      "requirements": [
+        "Business must operate for profit",
+        "Meet SBA size standards",
+        "Business net worth under $15 million",
+        "Average net income under $5 million (after taxes)",
+        "Owner-occupied property (51% minimum)",
+        "Good credit history"
+      ],
+      "structure": {
+        "bank_loan": "50% from traditional lender",
+        "sba_debenture": "40% from SBA with fixed rates",
+        "down_payment": "10% from borrower"
+      }
+    },
+    {
+      "name": "SBA 7(a) Loans",
+      "slug": "sba-7a-loans",
+      "purpose": "Versatile business financing for various needs",
+      "amount": "Up to $5 million",
+      "down_payment": "Varies by use",
+      "terms": "Up to 25 years",
+      "rates": "Starting at 7.0% APR",
+      "features": [
+        "Flexible use of funds",
+        "Longer repayment terms than conventional loans",
+        "Lower down payments",
+        "Competitive interest rates",
+        "No collateral required for loans under $25,000",
+        "No prepayment penalties"
+      ],
+      "eligible_uses": [
+        "Working capital and cash flow",
+        "Equipment and machinery purchases",
+        "Business acquisition",
+        "Real estate purchase or renovation",
+        "Debt refinancing",
+        "Inventory and supplies",
+        "Marketing and advertising",
+        "Franchise fees"
+      ],
+      "types": [
+        {
+          "name": "Standard 7(a)",
+          "amount": "Up to $5 million",
+          "description": "Most common SBA loan for general business purposes"
+        },
+        {
+          "name": "SBA Express",
+          "amount": "Up to $500,000",
+          "description": "Faster approval (36 hours) with streamlined application"
+        },
+        {
+          "name": "Export Express",
+          "amount": "Up to $500,000",
+          "description": "For businesses that export or plan to export"
+        },
+        {
+          "name": "CAPLines",
+          "amount": "Up to $5 million",
+          "description": "Revolving lines of credit for cyclical needs"
+        }
+      ]
+    },
+    {
+      "name": "Equipment Financing",
+      "slug": "equipment-financing",
+      "purpose": "Finance essential business equipment",
+      "amount": "Up to 100% of equipment value",
+      "down_payment": "0% - 100% financing available",
+      "terms": "2-7 years",
+      "rates": "Starting at 8.5% APR",
+      "features": [
+        "100% financing available",
+        "Preserve working capital",
+        "Fixed monthly payments",
+        "Fast approval process",
+        "Tax advantages (Section 179)",
+        "Build business credit",
+        "New and used equipment eligible"
+      ],
+      "eligible_equipment": [
+        "Manufacturing machinery",
+        "Construction equipment",
+        "Medical equipment",
+        "Restaurant equipment",
+        "IT hardware and software",
+        "Vehicles and trucks",
+        "Office furniture",
+        "Agricultural equipment",
+        "Printing equipment",
+        "Fitness equipment"
+      ],
+      "process": [
+        "Choose your equipment from any vendor",
+        "Apply for financing with minimal documentation",
+        "Get approved in as little as 2 hours",
+        "We pay the vendor directly"
+      ]
+    },
+    {
+      "name": "Business Lines of Credit",
+      "slug": "business-lines-of-credit",
+      "purpose": "Flexible working capital for ongoing needs",
+      "amount": "$25,000 to $500,000",
+      "terms": "12 months renewable",
+      "rates": "Starting at 9.0% APR",
+      "features": [
+        "Only pay interest on what you use",
+        "Revolving credit - reuse as you repay",
+        "No collateral required for many lines",
+        "Quick access to funds",
+        "Build business credit history",
+        "Flexible repayment options",
+        "24/7 online account access",
+        "No prepayment penalties"
+      ],
+      "uses": [
+        "Managing cash flow gaps",
+        "Purchasing inventory",
+        "Covering payroll",
+        "Emergency expenses",
+        "Seasonal fluctuations",
+        "Marketing campaigns",
+        "Equipment repairs",
+        "Taking advantage of opportunities"
+      ],
+      "tiers": [
+        {
+          "name": "Starter Line",
+          "amount": "$25,000 - $100,000",
+          "best_for": "New businesses",
+          "rate": "From 12% APR"
+        },
+        {
+          "name": "Growth Line",
+          "amount": "$100,000 - $250,000",
+          "best_for": "Established businesses",
+          "rate": "From 10% APR"
+        },
+        {
+          "name": "Premium Line",
+          "amount": "$250,000 - $500,000",
+          "best_for": "High-revenue businesses",
+          "rate": "From 8% APR"
+        }
+      ]
+    },
+    {
+      "name": "Commercial Real Estate Loans",
+      "slug": "commercial-real-estate-loans",
+      "purpose": "Finance commercial property purchases and improvements",
+      "amount": "Up to $5 million",
+      "down_payment": "20-25% typical",
+      "terms": "15-25 years",
+      "rates": "Starting at 6.8% APR",
+      "features": [
+        "Competitive fixed and variable rates",
+        "Up to 80% loan-to-value",
+        "Non-recourse options available",
+        "Interest-only periods available",
+        "Flexible prepayment options"
+      ],
+      "property_types": [
+        "Office buildings",
+        "Retail centers",
+        "Industrial warehouses",
+        "Medical facilities",
+        "Hotels and hospitality",
+        "Multi-family properties",
+        "Mixed-use developments",
+        "Self-storage facilities"
+      ],
+      "programs": [
+        {
+          "name": "Traditional Commercial Mortgage",
+          "ltv": "Up to 75% LTV",
+          "term": "5-25 years",
+          "best_for": "Stabilized properties"
+        },
+        {
+          "name": "Bridge Loans",
+          "ltv": "Up to 80% LTV",
+          "term": "6-36 months",
+          "best_for": "Value-add opportunities"
+        },
+        {
+          "name": "Construction Loans",
+          "ltv": "Up to 70% LTC",
+          "term": "12-24 months",
+          "best_for": "Ground-up development"
+        }
+      ]
+    },
+    {
+      "name": "Business Acquisition Loans",
+      "slug": "business-acquisition-loans",
+      "purpose": "Finance the purchase of existing businesses",
+      "amount": "Up to 90% of purchase price",
+      "terms": "5-25 years",
+      "rates": "Starting at 7.5% APR",
+      "features": [
+        "Finance up to 90% of purchase price",
+        "Include working capital in loan",
+        "Seller financing options",
+        "Asset-based valuations",
+        "Due diligence support",
+        "Competitive fixed rates",
+        "No prepayment penalties"
+      ],
+      "acquisition_types": [
+        "Existing business purchase",
+        "Franchise acquisitions",
+        "Partner buyouts",
+        "Competitor acquisitions",
+        "Strategic expansions",
+        "Management buyouts",
+        "Asset purchases",
+        "Stock purchases"
+      ],
+      "options": [
+        {
+          "type": "SBA Acquisition Loans",
+          "benefits": [
+            "Lower down payment (10%)",
+            "Longer repayment terms",
+            "Include working capital",
+            "Goodwill financing",
+            "Seller note allowed"
+          ]
+        },
+        {
+          "type": "Conventional Acquisition Loans",
+          "benefits": [
+            "Faster closing times",
+            "Flexible structures",
+            "Higher loan amounts",
+            "Less paperwork",
+            "Creative financing options"
+          ]
+        }
+      ]
+    }
+  ],
+  "application_process": {
+    "steps": [
+      {
+        "number": 1,
+        "title": "Pre-Qualification",
+        "description": "Quick online form to check eligibility",
+        "time": "5 minutes"
+      },
+      {
+        "number": 2,
+        "title": "Application",
+        "description": "Complete detailed application with business information",
+        "time": "20-30 minutes"
+      },
+      {
+        "number": 3,
+        "title": "Documentation",
+        "description": "Submit financial statements and supporting documents",
+        "required_docs": [
+          "Business tax returns (3 years)",
+          "Personal tax returns (3 years)",
+          "Bank statements (6 months)",
+          "Financial statements",
+          "Business plan (for startups)",
+          "Legal documents (articles of incorporation, etc.)"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Underwriting",
+        "description": "Our team reviews and processes your application",
+        "time": "24-48 hours"
+      },
+      {
+        "number": 5,
+        "title": "Approval & Funding",
+        "description": "Receive approval decision and fund disbursement",
+        "time": "Varies by loan type"
+      }
+    ],
+    "approval_criteria": {
+      "credit_score": "Minimum 650 for most programs",
+      "time_in_business": "Generally 2+ years (some exceptions)",
+      "annual_revenue": "Varies by loan type",
+      "debt_service_coverage": "1.25x minimum",
+      "collateral": "Depends on loan type and amount"
+    }
+  },
+  "industries_served": [
+    "Manufacturing",
+    "Retail",
+    "Restaurant/Food Service",
+    "Healthcare",
+    "Professional Services",
+    "Construction",
+    "Technology",
+    "Transportation",
+    "Hospitality",
+    "Real Estate",
+    "Agriculture",
+    "Wholesale Trade"
+  ],
+  "faqs": [
+    {
+      "question": "How quickly can I get approved?",
+      "answer": "Most applications receive a decision within 24-48 hours. SBA Express loans can be approved in as little as 36 hours."
+    },
+    {
+      "question": "What credit score do I need?",
+      "answer": "Most programs require a minimum credit score of 650, though some programs may work with scores as low as 600 with strong compensating factors."
+    },
+    {
+      "question": "Can I apply if my business is less than 2 years old?",
+      "answer": "Yes, we have programs for newer businesses, though you may need to provide additional documentation such as a detailed business plan and projections."
+    },
+    {
+      "question": "What's the difference between SBA 504 and SBA 7(a) loans?",
+      "answer": "SBA 504 loans are specifically for real estate and equipment purchases with fixed rates and require 10% down. SBA 7(a) loans are more versatile and can be used for working capital, inventory, and various business purposes."
+    },
+    {
+      "question": "Do I need collateral for a business loan?",
+      "answer": "It depends on the loan type and amount. SBA loans under $25,000 typically don't require collateral. Larger loans may require business assets or real estate as collateral."
+    },
+    {
+      "question": "Can I pay off my loan early?",
+      "answer": "Yes, most of our loan programs have no prepayment penalties, allowing you to pay off your loan early without additional fees."
+    },
+    {
+      "question": "What documents will I need to apply?",
+      "answer": "Basic requirements include 3 years of business and personal tax returns, 6 months of bank statements, financial statements, and legal business documents. Specific requirements vary by loan type."
+    },
+    {
+      "question": "Can I use a business loan to buy out a partner?",
+      "answer": "Yes, our business acquisition loans can be used for partner buyouts, providing up to 90% financing for the transaction."
+    }
+  ]
+}

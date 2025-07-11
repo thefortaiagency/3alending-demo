@@ -1,0 +1,40 @@
+{
+  "name": "3a-lending-platform",
+  "version": "1.0.0",
+  "description": "Built with NEXUS Platform Factory - Template: Modern Business - Theme: Glassmorphism   - Features: Live Chat, AI Assistant, Analytics",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.50.1",
+    "@tailwindcss/typography": "^0.5.16",
+    "autoprefixer": "^10.4.21",
+    "bcryptjs": "^3.0.2",
+    "dotenv": "^16.5.0",
+    "framer-motion": "^12.19.1",
+    "jsonwebtoken": "^9.0.2",
+    "lucide-react": "^0.522.0",
+    "marked": "^16.0.0",
+    "next": "^14.2.30",
+    "next-auth": "^4.24.11",
+    "node-fetch": "^3.3.2",
+    "openai": "^5.8.2",
+    "postcss": "^8.5.6",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "tailwindcss": "^3.4.17"
+  },
+  "devDependencies": {
+    "@types/node": "24.0.3",
+    "@types/react": "19.1.8",
+    "typescript": "5.8.3"
+  }
+}
